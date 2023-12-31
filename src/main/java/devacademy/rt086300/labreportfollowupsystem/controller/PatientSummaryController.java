@@ -37,7 +37,7 @@ import devacademy.rt086300.labreportfollowupsystem.service.PatientSummaryService
  * @author RT086300
  *
  */
-@CrossOrigin(origins = "http://localhost:8081")
+@CrossOrigin(origins = "https://lab-report-follow-up-system.vercel.app/")
 @RestController
 @Validated
 @RequestMapping("/api")
