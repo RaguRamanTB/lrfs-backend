@@ -27,7 +27,7 @@ import devacademy.rt086300.labreportfollowupsystem.service.LocationUnitService;
  * @author RT086300
  *
  */
-@CrossOrigin(origins = "https://lab-report-follow-up-system.vercel.app/")
+@CrossOrigin(origins = "https://lab-report-follow-up-system.vercel.app")
 @RestController
 @RequestMapping("/api")
 public class LocationUnitController {
